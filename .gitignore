@@ -1,0 +1,7 @@
+env
+.ipynb_checkpoints
+.DS_Store
+*.swp
+.vscode
+*.bak
+package-lock.json
